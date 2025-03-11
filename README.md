@@ -64,6 +64,8 @@ movie-recommendation-system/
 The dataset used is from # IMDb/TMDB containing movie titles, genres, descriptions, and ratings.
 
 # Streamlit App
+![image](https://github.com/user-attachments/assets/0ef4c282-68cd-45b4-8bc5-309da8bfccc3)
+
 
 ![image](https://github.com/user-attachments/assets/1d3ea3b5-ba81-4e8e-bf73-dc62997b6eff)
 
