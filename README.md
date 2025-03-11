@@ -6,13 +6,13 @@ This project is a # Movie Recommendation System built using Jupyter Notebook for
 
 # Features
 
-# Content-Based Filtering 
+**# Content-Based Filtering #** 
 : Recommends movies similar to a given movie based on textual data like genre, cast, and plot.
 
-# Collaborative Filtering:
+**# Collaborative Filtering: #**
 Recommends movies based on user preferences and ratings.
 
-# Interactive UI with Streamlit:
+**# Interactive UI with Streamlit: #**
 A clean and modern interface for easy movie search and recommendations.
 
 # Search Functionality:
@@ -35,13 +35,13 @@ git clone https://github.com/vikshittindwani/movie-recommended-system
 
 Usage
 
-1. Model Development (Jupyter Notebook)
+ # 1. Model Development (Jupyter Notebook)
 
 Open Movie_Recommendation.ipynb in Jupyter Notebook.
 
 Run the cells to preprocess data, build models, and generate recommendations.
 
-2. Running the Streamlit App
+# 2. Running the Streamlit App
 
 To launch the web interface, run the following command:
 
@@ -63,9 +63,10 @@ movie-recommendation-system/
 
 The dataset used is from # IMDb/TMDB containing movie titles, genres, descriptions, and ratings.
 
-# Screenshots
+# Streamlit App
 
-Add UI screenshots here to showcase the Streamlit interface.
+![image](https://github.com/user-attachments/assets/1d3ea3b5-ba81-4e8e-bf73-dc62997b6eff)
+
 
 # Future Enhancements
 
