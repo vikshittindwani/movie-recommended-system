@@ -31,8 +31,7 @@ pip install pandas numpy scikit-learn streamlit requests beautifulsoup4
 
 Clone the Repository
 
-git clone https://github.com/yourusername/movie-recommendation-system.git
-cd movie-recommendation-system
+git clone https://github.com/vikshittindwani/movie-recommended-system
 
 Usage
 
