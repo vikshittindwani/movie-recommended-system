@@ -15,10 +15,10 @@ Recommends movies based on user preferences and ratings.
 **# Interactive UI with Streamlit: #**
 A clean and modern interface for easy movie search and recommendations.
 
-# Search Functionality:
+**# Search Functionality: #**
 Users can search for a movie and get recommendations instantly.
 
-# Visualization:
+**# Visualization: #**
 Charts and graphs to show trends in movie recommendations.
 
 # Installation
@@ -64,10 +64,9 @@ movie-recommendation-system/
 The dataset used is from # IMDb/TMDB containing movie titles, genres, descriptions, and ratings.
 
 # Streamlit App
+![image](https://github.com/user-attachments/assets/1c1dd3a0-a7e4-46aa-9981-e575a148bd32)
+
 ![image](https://github.com/user-attachments/assets/0ef4c282-68cd-45b4-8bc5-309da8bfccc3)
-
-
-![image](https://github.com/user-attachments/assets/1d3ea3b5-ba81-4e8e-bf73-dc62997b6eff)
 
 
 # Future Enhancements
