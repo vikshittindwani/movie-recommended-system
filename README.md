@@ -1,24 +1,24 @@
-Movie Recommendation System
+# Movie Recommendation System#
 
-Overview
+# Overview
 
-This project is a Movie Recommendation System built using Jupyter Notebook for model development and Streamlit for a user-friendly web interface. It allows users to find personalized movie recommendations based on content similarity or collaborative filtering techniques.
+This project is a # Movie Recommendation System built using Jupyter Notebook for model development and Streamlit for a user-friendly web interface. It allows users to find personalized movie recommendations based on content similarity or collaborative filtering techniques.
 
-Features
+# Features
 
-Content-Based Filtering: Recommends movies similar to a given movie based on textual data like genre, cast, and plot.
+# Content-Based Filtering: Recommends movies similar to a given movie based on textual data like genre, cast, and plot.
 
-Collaborative Filtering: Recommends movies based on user preferences and ratings.
+# Collaborative Filtering: Recommends movies based on user preferences and ratings.
 
-Interactive UI with Streamlit: A clean and modern interface for easy movie search and recommendations.
+# Interactive UI with Streamlit: A clean and modern interface for easy movie search and recommendations.
 
-Search Functionality: Users can search for a movie and get recommendations instantly.
+# Search Functionality: Users can search for a movie and get recommendations instantly.
 
-Visualization: Charts and graphs to show trends in movie recommendations.
+# Visualization: Charts and graphs to show trends in movie recommendations.
 
-Installation
+# Installation
 
-Prerequisites
+# Prerequisites
 
 Make sure you have Python installed. Install the required libraries using:
 
@@ -43,7 +43,7 @@ To launch the web interface, run the following command:
 
 streamlit run app.py
 
-Then open the provided localhost URL in your browser.
+Then open the provided # localhost URL in your browser.
 
 Project Structure
 
@@ -55,21 +55,21 @@ movie-recommendation-system/
 │── requirements.txt        # Dependencies
 │── README.md               # Documentation
 
-Dataset
+# Dataset
 
-The dataset used is from IMDb/TMDB containing movie titles, genres, descriptions, and ratings.
+The dataset used is from # IMDb/TMDB containing movie titles, genres, descriptions, and ratings.
 
-Screenshots
+# Screenshots
 
 Add UI screenshots here to showcase the Streamlit interface.
 
-Future Enhancements
+# Future Enhancements
 
-Improve recommendation accuracy using Deep Learning.
+Improve recommendation accuracy using # Deep Learning.
 
-Add user login and personalized recommendations.
+Add # user login and personalized recommendations.
 
-Deploy on Heroku/AWS.
+Deploy on # Heroku/AWS.
 
 Contributing
 
@@ -77,6 +77,8 @@ Feel free to fork the repository and submit pull requests!
 
 License
 
-This project is licensed under the MIT License.
+This project is licensed under the # MIT License.
 
-Happy Movie Watching! 🎬🍿
+# Happy Movie Watching! 🎬🍿
+
+
