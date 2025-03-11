@@ -6,21 +6,26 @@ This project is a # Movie Recommendation System built using Jupyter Notebook for
 
 # Features
 
-# Content-Based Filtering: Recommends movies similar to a given movie based on textual data like genre, cast, and plot.
+# Content-Based Filtering 
+: Recommends movies similar to a given movie based on textual data like genre, cast, and plot.
 
-# Collaborative Filtering: Recommends movies based on user preferences and ratings.
+# Collaborative Filtering:
+Recommends movies based on user preferences and ratings.
 
-# Interactive UI with Streamlit: A clean and modern interface for easy movie search and recommendations.
+# Interactive UI with Streamlit:
+A clean and modern interface for easy movie search and recommendations.
 
-# Search Functionality: Users can search for a movie and get recommendations instantly.
+# Search Functionality:
+Users can search for a movie and get recommendations instantly.
 
-# Visualization: Charts and graphs to show trends in movie recommendations.
+# Visualization:
+Charts and graphs to show trends in movie recommendations.
 
 # Installation
 
 # Prerequisites
 
-Make sure you have Python installed. Install the required libraries using:
+* Make sure you have Python installed. Install the required libraries using:
 
 pip install pandas numpy scikit-learn streamlit requests beautifulsoup4
 
